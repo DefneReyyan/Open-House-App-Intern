@@ -26,7 +26,7 @@ which will help them to manage their open houses effectively along with
 
 After many hours of meetings, the following plan has been prepared.
 
-![project](project.png)
+![project](Project.png)
 
 ## Objects to Create
 
