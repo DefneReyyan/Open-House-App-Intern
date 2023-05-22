@@ -223,6 +223,8 @@ But if you would like to skip this step, you can install the package (not recomm
 
 Install for Admin only recommended.
 
+Any mistake you will find is intentional for the educative purpose. Please feel free to update any object, field and layouts as you needed.
+
 
 ##Tasks
 
