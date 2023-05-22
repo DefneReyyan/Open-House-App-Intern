@@ -219,7 +219,7 @@ Please create all objects and fields yourself.
 
 But if you would like to skip this step, you can install the package (not recommended), please use the link below: 
 
-[Install Unmanaged App Package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tDm0000004urp&isdtp=p1)
+[Install Unmanaged App Package]([https://login.salesforce.com/packaging/installPackage.apexp?p0=04tDm0000004urp&isdtp=p1](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t8b000000jstm&isdtp=p1)
 
 Install for Admin only recommended.
 
