@@ -1,4 +1,4 @@
-# Handson Deveoper Project for Clarusway Salesforce Bootcamp Cohort-3 Students : Open House Show App for New Again Houses LLC
+# Triforcia Developer Internship : Open House Show App for New Again Houses LLC
 
 ## Description
 
@@ -259,7 +259,7 @@ Install for Admin only recommended.
 
 
 
-### At the end of the project, students will be able to;
+### At the end of the project, interns will be able to;
 
 - Design and implement custom objects and fields in Salesforce
 
@@ -284,11 +284,11 @@ Install for Admin only recommended.
 
 ## Steps to Solution
   
-- Step 1: Download or clone project definition from `Clarusway_Cohort3_Developer_Handson` repo on Github 
+- Step 1: Download or clone project definition from `TriforciaDevops/Open-House-App-Intern` repo on Github 
 
 - Step 2: Create project folder for local public repo on your pc
 
-- Step 3: Install unmanaged package to your developer org 
+- Step 3: Create the App manually or Install unmanaged package to your developer org 
 
 - Step 4: Complete Administrator implementation tasks  
 
@@ -298,7 +298,7 @@ Install for Admin only recommended.
 
 - Step 7: Deploy your application on developer org using to showcase your app within your team.
 
-- Step 8: Prepeare your presentation on 17th March 2023 at 8 PM
+- Step 8: Prepeare your presentation on Xth June 2023 at X PM EST
 
 
 ## Considerations
