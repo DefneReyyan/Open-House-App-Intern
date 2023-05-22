@@ -184,6 +184,8 @@ Note: This is the initial plan. If you think that an update needed, please feel 
 
 ## Email Template to Visitors
 
+Feel free to offer a new format or wording for the email template. 
+
 Subject : Your Invitation successfully created
 
 Email Body : 
